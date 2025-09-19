@@ -73,18 +73,17 @@ Steps:
 Here are some screenshots of the project in action:  
 
 ### 🔹 Running Locally
-![Local Nginx Container](https://drive.google.com/file/d/1VStLV1i9vEbilr4PtDndjQ9oJD6eSgl3/view)  
+![Local Nginx Container](screenshots/l.jpg)  
 
 ### 🔹 Custom Docker Image
-![Custom Image](screenshots/custom-image.png)  
+![Custom Image](screenshots/2.jpg)  
 
 ### 🔹 AWS Elastic Beanstalk Deployment
-![AWS Deployment](screenshots/aws-deploy.png)  
+![AWS Deployment](screenshots/3.jpg)  
 
 ### 🔹 Live Demo (Optional)
 👉 [Live App URL](#)  
 
-*(Replace `screenshots/*.png` with your actual screenshot file paths and update the demo link if available)*  
 
 ---
 
