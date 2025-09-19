@@ -73,7 +73,7 @@ Steps:
 Here are some screenshots of the project in action:  
 
 ### 🔹 Running Locally
-![Local Nginx Container](screenshots/local-nginx.png)  
+![Local Nginx Container](https://drive.google.com/file/d/1VStLV1i9vEbilr4PtDndjQ9oJD6eSgl3/view)  
 
 ### 🔹 Custom Docker Image
 ![Custom Image](screenshots/custom-image.png)  
